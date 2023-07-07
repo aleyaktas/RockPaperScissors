@@ -12,4 +12,4 @@ Bu proje, Swift programlama dili kullanılarak geliştirilen bir Taş Kağıt Ma
 
 ## Örnek Uygulama Görüntüsü
 
-<img width="442" alt="taskagitmakas" src="https://github.com/aleyaktas/TasKagitMakas/assets/76265779/4e22364e-6bc5-45a5-b40f-fc5d58aa0fa3">
+<img width="499" alt="taskagitmakas" src="https://github.com/aleyaktas/RockPaperScissors/assets/76265779/a505983d-560f-49a4-a1f5-9e79a2f439bd">
